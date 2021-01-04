@@ -1,10 +1,8 @@
 # Greetings traveler, i'm Thiago D.
 
-⚡ *Electrical Engineer, Data Analyst and admin of Data Science in Belém community* :heart:
-
+⚡ *Electrical Engineer, Data Analyst and admin of Data Science in Belém community* :heart: <br>
 🌱 I’m currently developing myself on *Machine Learning*. You can check my projects below. 
 
-## Data science projects
 ### Natural Language Processing 
 
 1. [Sentiment Analysis of movie reviews (pt-br)](https://github.com/Thiagodcfarias/Projetos-Data-Science/tree/main/NLP/analise_sentimento_imdb) 
