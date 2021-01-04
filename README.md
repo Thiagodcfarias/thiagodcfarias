@@ -4,10 +4,6 @@
 
 🌱 I’m currently developing myself on *Machine Learning*. You can check my projects below. 
 
-### Contact me! 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/thiagodcfarias/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?logo=Gmail&logoColor=white&color=red&link=mailto:thiagodcfarias1@gmail.com)](mailto:thiagodcfarias1@gmail.com)
-
 ## Data science projects
 ### Natural Language Processing 
 
@@ -15,3 +11,7 @@
 2. [Web scrapping and news web page classification (pt-br)](https://github.com/Thiagodcfarias/Projetos-Data-Science/tree/main/NLP/Globo_news_web_page_classification)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thiagodcfarias.thiagodcfarias)
+
+### Contact me! 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-black?logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/thiagodcfarias/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-black?logo=Gmail&logoColor=white&color=red&link=mailto:thiagodcfarias1@gmail.com)](mailto:thiagodcfarias1@gmail.com)
