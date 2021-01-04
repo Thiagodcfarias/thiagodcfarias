@@ -9,7 +9,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-black?logo=Gmail&logoColor=white&color=red&link=mailto:thiagodcfarias1@gmail.com)](mailto:thiagodcfarias1@gmail.com)
 
 ## Data science projects
-
 ### Natural Language Processing 
 
 1. [Sentiment Analysis of movie reviews (pt-br)](https://github.com/Thiagodcfarias/Projetos-Data-Science/tree/main/NLP/analise_sentimento_imdb) 
