@@ -1,8 +1,8 @@
 # Greetings traveler, i'm Thiago D.
 
-⚡ *Electrical Engineer, Data Analyst and admin of Data Science in Belém community* :heart: 
+- *Electrical Engineer, Data Analyst and admin of Data Science in Belém community* :heart: 
 
-🌱 I’m currently developing myself on *Machine Learning*. You can check my projects below. 
+- I’m currently developing myself on *Machine Learning*. You can check my projects below. 🌱
 
 ### Natural Language Processing 
 
